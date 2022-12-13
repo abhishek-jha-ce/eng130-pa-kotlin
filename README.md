@@ -47,7 +47,16 @@ Together, the **Java Development Kit (JDK)**, the **Java Virtual Machine (JVM)**
 
 - We can install JDK from https://jdk.java.net/.
 - Click on the latest release from **Ready for use:** section.
-- In the next page, Download the required 
+- In the next page, Download the **Builds** for the required OS.
+- For **Windows**, it will download a zip file. Once downloaded extract the files.
+- Copy the folder and paste it in `C:\Program Files\Java`. If `Java` folder doesn't exist create a new one.
+- Edit the `environment variables` and add path for java to it.
+  -  Right click on windows and select `System`.
+  -  Select `Advanced system settings` tab.
+  -  A new pop up windows will open, click on `Environment Variables`.
+  -  Another pop up window will open. In the bottom section (System variables), select `Path` and click on `Edit`.
+  -  Click on new, and add `C:\Program Files\Java\jdk-<version>\bin` to the path. This is where the `Java` Application is located.
+
 ## Android Studio
 
 <img align="right" title="Android logo" src="https://user-images.githubusercontent.com/110366380/207345087-51ac667f-1dd0-4844-9193-59afa6358172.png">
