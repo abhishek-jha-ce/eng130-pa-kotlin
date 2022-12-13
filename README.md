@@ -47,6 +47,8 @@ Together, the **Java Development Kit (JDK)**, the **Java Virtual Machine (JVM)**
 
 ## Android Studio
 
+<img align="right" title="Android logo" src="https://user-images.githubusercontent.com/110366380/207345087-51ac667f-1dd0-4844-9193-59afa6358172.png">
+
 Android Studio is the **official Integrated Development Environment (IDE)** for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems.
 
 ### Installing Android Studio
