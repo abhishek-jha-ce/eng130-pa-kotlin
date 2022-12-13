@@ -1,6 +1,9 @@
 # Kotlin
 
-- Open-source
+Kotlin is a cross-platform, statically typed, general-purpose programming language.
+<img align="right" width="450" height="184" src="https://user-images.githubusercontent.com/110366380/207404210-02364cff-e782-4626-a573-e0a838f2ca39.jpg">
+
+- It is Open-source.
 - Static language (Declaration required e.g. int var = value).
 - Designed & developed by `JetBrains`.
 - Supports both object-oriented and functional programming.
@@ -18,7 +21,12 @@ Kotlin is `inter-operable` with the Java Programming language. We can easily con
 - Much simpler and more understandable structure.
 - We can also develop Web, Desktop and Android Applications with Kotlin, same like Java.
 
+![features_kotlin-1](https://user-images.githubusercontent.com/110366380/207405694-c85e7446-1b16-46d9-b48d-d80e5f1025d0.jpg)
+
 ## Android
+
+<img align="right" width="300" height="206" src="https://user-images.githubusercontent.com/110366380/207403348-4f9a1981-69b0-4178-89fc-1b7118036dd5.jpg">
+
 Android is an Operating System designed for use on touchscreen Mobile Devices such as smartphones and tablets. It is based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 - It was originally developed as an advanced operating systems for digital cameras.
 - It is also used as an OS in Televisions, Smartwatches, Android Auto and Wear devices.
@@ -27,6 +35,7 @@ Android is an Operating System designed for use on touchscreen Mobile Devices su
 # Installations Required
 
 ## Java Development Kit (JDK)
+<img align="right" width="420" height="240" src="https://user-images.githubusercontent.com/110366380/207402187-1bab76d7-69ce-43e1-ad54-18725b778952.jpeg">
 
 **Java Development Kit (JDK)** implements the Java Language Specification (JLS) and the Java Virtual Machine Specification (JVMS) and provides the Standard Edition (SE) of the Java Application Programming Interface (API).
 
@@ -41,6 +50,7 @@ Together, the **Java Development Kit (JDK)**, the **Java Virtual Machine (JVM)**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110366380/207308467-42bb57c7-9928-4830-b26a-a8fd3fc3283b.png">
+  <strong><em>Figure 1: Java Development Kit Architecture</em></strong>
 </p>
 
 ### Installing JDK
