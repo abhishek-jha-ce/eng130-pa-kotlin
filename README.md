@@ -69,3 +69,11 @@ An **IDE** is a software application that provides comprehensive facilities to d
 - A Debugger.
 
 ### Installing Android Studio
+<img align="right" width="533" height="300" src="https://user-images.githubusercontent.com/110366380/207400599-72720728-50e1-424f-ad01-f8ad2618a5f1.jpg">
+
+- We can install Android Studio from https://developer.android.com/studio.
+- Click on `Download Android Studio`. It will download the most up-to-date version.
+- **Note**: A minimum of `8 GB RAM` is required. It also doesn't support 32-bit system after version 4 or above.
+- Install the downloaded `.exe` file.
+- The latest android version already come packaged with a `jdk` so we might not need to install jdk if using android studio.
+- The latest version of android studio as of Dec 2022 is `Dolphin | 2021.3.1`
